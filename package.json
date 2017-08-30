@@ -1,0 +1,24 @@
+{
+  "name": "cucumbertest",
+  "version": "1.0.0",
+  "description": "an experiment to test cucumber with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekharOnRuby/cucumberJS.git"
+  },
+  "author": "shekhar karande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekharOnRuby/cucumberJS/issues"
+  },
+  "homepage": "https://github.com/shekharOnRuby/cucumberJS#readme",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "cucumber": "^3.0.1",
+    "selenium-webdriver": "^3.5.0"
+  }
+}
